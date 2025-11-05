@@ -21,7 +21,7 @@ Mediterranean cuisine encompasses the culinary traditions of countries bordering
 - Moroccan: Tagines, couscous, b'stilla
 
 ## Recipe Guidelines
-All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../FlavorAtlas_Recipe_Template.md) format and include:
+All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../Templates/FlavorAtlas_Recipe_Template.md) format and include:
 - Specific regional origin within Mediterranean
 - Olive oil quality recommendations
 - Fresh herb vs. dried herb guidance

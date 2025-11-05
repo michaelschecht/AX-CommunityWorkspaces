@@ -21,7 +21,7 @@ Heartland American cooking featuring comfort food classics, farm-to-table tradit
 - Pot roasts and slow-cooked meats
 
 ## Recipe Guidelines
-All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../FlavorAtlas_Recipe_Template.md) format and include:
+All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../Templates/FlavorAtlas_Recipe_Template.md) format and include:
 - Regional context and cultural significance
 - Scaling notes for family gatherings
 - Make-ahead and storage instructions

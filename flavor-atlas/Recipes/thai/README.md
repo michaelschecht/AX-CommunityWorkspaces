@@ -22,7 +22,7 @@ Thai cuisine is renowned for balancing five fundamental flavors: sweet, sour, sa
 - Mango sticky rice
 
 ## Recipe Guidelines
-All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../FlavorAtlas_Recipe_Template.md) format and include:
+All recipes in this folder must follow the [FlavorAtlas_Recipe_Template.md](../../Templates/FlavorAtlas_Recipe_Template.md) format and include:
 - Curry paste recipes or sourcing recommendations
 - Heat level guidance with pepper adjustments
 - Fresh herb sourcing and substitution notes
