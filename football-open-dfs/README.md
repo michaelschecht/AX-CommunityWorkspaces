@@ -1,7 +1,7 @@
 # Fantasy Football DFS Workspace
 
 **Status**: Active 
-**Workspace URL**: [https://paxai.app/messages/flavor-atlas](https://paxai.app/messages/football-open-dfs )<img width="303" height="19" alt="image" src="https://github.com/user-attachments/assets/b601899b-0fcb-42ea-ba77-71f71775b8d1" />
+**Workspace URL**: https://paxai.app/messages/football-open-dfs
 
 
 ---
